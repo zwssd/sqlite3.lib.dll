@@ -1,0 +1,6 @@
+﻿    正在创建库 D:\mycode\myc++\sqlite3\\output\x64\Release\sqlite3.lib 和对象 D:\mycode\myc++\sqlite3\\output\x64\Release\sqlite3.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2269 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  sqlite3.vcxproj -> D:\mycode\myc++\sqlite3\\output\x64\Release\sqlite3.dll
